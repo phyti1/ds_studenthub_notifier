@@ -6,6 +6,7 @@
 - Windows 10 PC
 
 ## How to use
+- Start TOR Browser and enable "always connect automatically"
 - Rename fhnw.json.example to fhnw.json
 - Change fhnw.json to match your credentials
 - run `pipenv install` inside your project folder
