@@ -1,0 +1,11 @@
+{
+    "username": "firstname.lastname@students.fhnw.ch",
+    "password": "your_fhnw_password",
+    "slack_access": "xapp-... not used",
+    "slack_channel": "mychannel not used",
+    "email_sender": "some_user_name@zohomail.com",
+    "email_receiver": "some_receiver_name@gmail.com",
+    "email_password": "your_zoho_email_password",
+    "tor_path": "C:\\Users\\your_name\\Desktop\\Tor Browser",
+    "repeat": 1
+}

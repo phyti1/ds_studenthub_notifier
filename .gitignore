@@ -1,0 +1,7 @@
+kaggle.json
+# hide all configuration files
+*.json
+*.log
+
+# ignore data folder for now, maybe add this later
+data
