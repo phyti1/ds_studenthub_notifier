@@ -2,6 +2,7 @@
 
 ## Prerequirements
 - TOR Browser from: https://www.torproject.org/download/
+- Zoho Mail account from: https://mail.zoho.in/signup
 - Python3 with pipenv installed
 - Windows 10 PC
 
